@@ -63,3 +63,26 @@ From multi-agent research swarms to sub-second conversational voice infrastructu
 ---
 
 ## 🛠️ Technology Stack
+* **Core Languages:** Python, TypeScript, Node.js, SQL
+* **Agent Frameworks & LLMs:** LangChain, LangGraph, CrewAI, PydanticAI, Claude, OpenAI, Gemini
+* **Protocols & Search:** Model Context Protocol (MCP), Pinecone, pgvector, Qdrant
+* **Automation & Voice:** n8n, Make.com, WebSockets, LiveKit, Vapi, Retell, Twilio
+* **Cloud & Operations:** Docker, Railway, Vercel, AWS, Supabase, PostgreSQL
+
+---
+
+## 🛡️ The AxonTick Standard
+
+- **100% Code & IP Ownership:** Zero proprietary lock-in. All codebase repositories, automations, and credentials belong entirely to the client upon deployment.
+- **Auditable & Extensible:** Clean modular structures with comprehensive documentation and schema validation.
+- **Enterprise-Grade Security:** Strict data isolation, encrypted environment variables, and zero model training on client telemetry.
+
+---
+
+## 📬 Collaborate With Us
+
+Ready to automate high-friction operational workflows or build bespoke agent swarms?
+
+* **Website:** [axontick.com](https://axontick.com)
+* **Schedule a Discovery Call:** [axontick.com/contact](https://axontick.com)
+* **Inquiries:** `contact@axontick.com`
