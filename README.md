@@ -1,6 +1,6 @@
 <div align="center">
 
-# AxonTick
+# Axontick
 
 ### High-Frequency Data Streaming • Quantitative Infrastructure • Real-Time Telemetry
 
@@ -16,7 +16,7 @@
 
 ## ⚡ Overview
 
-[AxonTick](https://axontick.com) builds high-throughput, sub-millisecond data pipelines and analytics systems for financial ticks, distributed telemetry, and time-series computing. Our mission is to bridge ultra-low latency infrastructure with actionable machine-intelligence feeds.
+[Axontick](https://axontick.com) builds high-throughput, sub-millisecond data pipelines and analytics systems for financial ticks, distributed telemetry, and time-series computing. Our mission is to bridge ultra-low latency infrastructure with actionable machine-intelligence feeds.
 
 * 🌐 **Production Systems:** Deterministic event processors, modular order-book simulators, and quantitative data backbones.
 * 🏎️ **Performance First:** Designed from the ground up with zero-allocation memory models and kernel-bypass capabilities.
