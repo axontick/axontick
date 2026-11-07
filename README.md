@@ -85,4 +85,4 @@ Ready to automate high-friction operational workflows or build bespoke agent swa
 
 * **Website:** [axontick.com](https://axontick.com)
 * **Schedule a Discovery Call:** [axontick.com/contact](https://axontick.com)
-* **Inquiries:** `contact@axontick.com`
+* **Inquiries:** `info@axontick.com`
