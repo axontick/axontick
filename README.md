@@ -84,5 +84,5 @@ From multi-agent research swarms to sub-second conversational voice infrastructu
 Ready to automate high-friction operational workflows or build bespoke agent swarms?
 
 * **Website:** [axontick.com](https://axontick.com)
-* **Schedule a Discovery Call:** [axontick.com/contact](https://axontick.com)
+* **Schedule a Discovery Call:** [axontick.com/contact](https://axontick.com/contact)
 * **Inquiries:** `info@axontick.com`
